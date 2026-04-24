@@ -1,7 +1,9 @@
 <div align="center">
   <a href="https://thestarterlabs.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=140&lines=The+Starter+Labs;Engineering+Digital+Excellence;Building+Scalable+Web+Architecture;Custom+E-commerce+%26+Tooling" alt="The Starter Labs" />
+    <img src="https://thestarterlabs.com/img/logo/tsl-logo-gif.gif" alt="The Starter Labs" width="450" />
   </a>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&pause=1500&color=8B949E&center=true&vCenter=true&width=800&height=60&lines=Engineering+Digital+Excellence;Architecting+Scalable+Web+Solutions;Proprietary+Performance+Tooling" alt="Taglines" />
 </div>
 
 <div align="center">
@@ -36,23 +38,23 @@
 <br><br>
 
 <div align="center">
-  <h2>🛠️ Our Technology Stack</h2>
-  <p><i>The frameworks, languages, and tools powering our engineering and design teams.</i></p>
+  <h2>🛠️ Core Technology Stack</h2>
+  <p style="color: #8B949E;"><i>The frameworks, languages, and infrastructure powering our engineering teams.</i></p>
   <br>
   
-  <h4 align="center" style="color: #8B949E;">Frontend & UI/UX</h4>
+  <h4 align="center" style="color: #58A6FF; margin-bottom: 10px;">Frontend & UI/UX</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,css,html,figma&theme=dark" alt="Frontend Stack" />
   </a>
   <br><br>
   
-  <h4 align="center" style="color: #8B949E;">Backend & Architecture</h4>
+  <h4 align="center" style="color: #58A6FF; margin-bottom: 10px;">Backend & Architecture</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,python,mysql,mongodb,aws&theme=dark" alt="Backend Stack" />
   </a>
   <br><br>
   
-  <h4 align="center" style="color: #8B949E;">E-commerce & DevOps</h4>
+  <h4 align="center" style="color: #58A6FF; margin-bottom: 10px;">E-commerce & DevOps</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=shopify,wordpress,git,github,docker,postman&theme=dark" alt="E-com and DevOps" />
   </a>
