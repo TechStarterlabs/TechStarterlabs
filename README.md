@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://thestarterlabs.com/">
-    <img src="https://thestarterlabs.com/img/logo/tsl-logo-gif.gif" alt="The Starter Labs" width="50" />
+    <img src="https://thestarterlabs.com/img/logo/tsl-logo-gif.gif" alt="The Starter Labs" width="100" />
   </a>
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&pause=1500&color=8B949E&center=true&vCenter=true&width=800&height=60&lines=Engineering+Digital+Excellence;Architecting+Scalable+Web+Solutions;Proprietary+Performance+Tooling" alt="Taglines" />
